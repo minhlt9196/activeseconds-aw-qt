@@ -14,7 +14,7 @@ aw-qt = "aw_qt:main"
 
 [tool.poetry.dependencies]
 python = "^3.6"
-aw-core = {git = "https://github.com/minhlt9196/aw-core.git"}
+aw-core = {git = "https://github.com/minhlt9196/activeseconds-aw-core.git"}
 PyQt5 = "5.15.2"
 pyobjc-framework-Cocoa = { version = "^7.0", platform = "darwin" }
 click = "^7.1.2"
